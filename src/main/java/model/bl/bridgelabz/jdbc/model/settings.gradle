@@ -1,0 +1,4 @@
+package model.bl.bridgelabz.jdbc.model
+
+rootProject.name = 'EmployeePayroll_JDBC'
+
